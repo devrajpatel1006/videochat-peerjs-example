@@ -9,7 +9,7 @@ Open a terminal and switch to the `videochat-peerjs-example/server` directory an
 ```batch
 npm install
 ```
-
+a
 Then switch to the `videochat-peerjs-example/public` directory and install dependencies executing:
 
 ```batch
